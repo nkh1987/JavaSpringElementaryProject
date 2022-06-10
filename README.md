@@ -1,3 +1,3 @@
 # basicexamplesinSpring
 
-Elementry Pet clinic project using Java Spring
+Elementry project using Java Spring
