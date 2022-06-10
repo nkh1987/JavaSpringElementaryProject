@@ -1,3 +1,3 @@
-# petClinicWithSpring
+# basicexamplesinSpring
 
-Pet clinic project using Java Spring
+Elementry Pet clinic project using Java Spring
